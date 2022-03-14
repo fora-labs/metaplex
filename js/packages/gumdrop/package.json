@@ -2,7 +2,7 @@
   "name": "gumdrop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lwus.github.io/metaplex/",
+  "homepage": "https://airdrop.fora.co/",
   "dependencies": {
     "@aws-sdk/client-sesv2": "^3.38.0",
     "@aws-sdk/client-sns": "^3.40.0",
