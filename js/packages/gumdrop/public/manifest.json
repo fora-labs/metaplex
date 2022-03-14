@@ -3,13 +3,13 @@
   "short_name": "Gumdrop",
   "icons": [
     {
-      "src": "/favicon-96x96.png",
-      "sizes": "96x96",
+      "src": "/fora-logo-sol-tyrion-trans_128.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/favicon-384x384.png",
-      "sizes": "384x384",
+      "src": "/fora-logo-sol-tyrion-trans_256.png",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ]
