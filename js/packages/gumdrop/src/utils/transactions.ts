@@ -19,7 +19,7 @@ interface BlockhashAndFeeCalculator {
   feeCalculator: FeeCalculator;
 }
 
-export const DEFAULT_TIMEOUT = 15000;
+export const DEFAULT_TIMEOUT = 60000;
 
 export const getUnixTs = () => {
   return new Date().getTime() / 1000;
