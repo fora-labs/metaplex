@@ -195,7 +195,7 @@ export const WalletProvider: FC<{ children: ReactNode }> = ({ children }) => {
   }, []);
 
   return (
-    <BaseWalletProvider wallets={wallets} onError={onError}>
+    <BaseWalletProvider wallets={wallets} onError={onError} autoConnect>
       <WalletModalProvider>{children}</WalletModalProvider>
     </BaseWalletProvider>
   );
